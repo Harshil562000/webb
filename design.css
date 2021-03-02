@@ -1,0 +1,14 @@
+body
+{
+	background-color: yellow;
+
+}
+img
+{
+	width: 700px;
+	height: 600px;
+	border: 5px solid;
+	border-radius: 4px;
+	padding: 5px
+
+}

@@ -1,0 +1,113 @@
+
+*
+{
+	margin: 0px;
+	padding: 0px;
+}
+.backgroundimg
+{
+	background-image: url('ait28.png');
+	background-size: 100% 100%
+    width:100%;
+    
+	height: 100vh;
+}
+
+
+.bar
+{
+	width:100%;
+	height: 100px;
+	background-color: rgba(0,0,0,0.5);
+	height: 60px;
+}
+.lbar
+{
+	width: 26%;
+	line-height: 81px;
+	float: left;
+}
+.lbar h4
+{
+	padding-left: 65px;
+	font-family: bold;
+	color: white;
+	size: 20px;
+}
+ 
+.rbar
+{
+	width: 500px;
+	height: 100px;
+	float: right;
+}
+.rbar ul li
+{
+	font-family: bold;
+	display: inline-block;
+	list-style: none;
+	size: 16px;
+	color: white;
+	font-weight: bold;
+	line-height: 80px;
+	margin-left: 30px;
+}
+.rbar a
+{
+	color: white;
+	background-color: transparent;
+}
+.texts
+{
+	margin-top: 200px;
+	text-transform: uppercase;
+	text-align: center;
+	size: 100px;
+}
+
+.texts h1
+{
+	text-align: center;
+	margin-bottom: 130px;
+	margin-top: 200px;
+	text-transform: uppercase;
+	text-align: center;
+	size: 100px;
+
+}
+.texts h2
+{
+text-align: center;
+	
+	color: black;
+	text-transform: uppercase;
+	text-align: center;
+	size: 100px;
+
+}
+#button1
+{
+	background-color: white;
+	font-size: 12px;
+	border: none;
+	line-height: 70px;
+	width: 125px;
+	margin-right:57px;
+	font-weight: bold;
+	
+
+ 
+}
+#button2
+{
+	background-color: transparent;
+	font-size: 15px;
+	border: bold;
+	line-height: 70px;
+	width: 100px;
+	margin-left:57px;
+	font-weight: bold;
+	width: 125px;
+    color: white;
+}
+
